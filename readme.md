@@ -10,17 +10,14 @@ This is a sample application build with Laravel 5.7. It can be used for serving 
     - IP limit: number of IP occurrences
     - IP limit duration: number of hours
 
-## Job interview information
+## Job candidate information
 
-After receiving the URL to this repository we would like you to:
+After receiving this repository we would like you to:
 
-- send a screenshot of the admin environment as soon as possible
-- send remarks within 4 hours with repsect to:
-  - bugs
-  - possible improvements
-  - anything else you have to say
+- Send a screenshot of the admin environment as soon as possible
+- Analyse the code and mail your review within 4 hours
 
-Thank you very much for the effort and time.
+Thank you very much for your time and effort.
 
 
 ## Installation
