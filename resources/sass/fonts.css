@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+  font-family:'BandaRegular';
+  src: url('/fonts/BandaRegular.eot?#iefix') format('embedded-opentype'),  url('/fonts/BandaRegular.otf')  format('opentype'),
+	     url('/fonts/BandaRegular.woff') format('woff'), url('/fonts/BandaRegular.ttf')  format('truetype'), url('/fonts/BandaRegular.svg#BandaRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family:'BandaSemibold-SemiBold';
+  src: url('/fonts/BandaSemibold-SemiBold.eot?#iefix') format('embedded-opentype'),  url('/fonts/BandaSemibold-SemiBold.otf')  format('opentype'),
+	     url('/fonts/BandaSemibold-SemiBold.woff') format('woff'), url('/fonts/BandaSemibold-SemiBold.ttf')  format('truetype'), url('/fonts/BandaSemibold-SemiBold.svg#BandaSemibold-SemiBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family:'BandaBold-Bold';
+  src: url('/fonts/BandaBold-Bold.eot?#iefix') format('embedded-opentype'),  url('/fonts/BandaBold-Bold.otf')  format('opentype'),
+	     url('/fonts/BandaBold-Bold.woff') format('woff'), url('/fonts/BandaBold-Bold.ttf')  format('truetype'), url('/fonts/BandaBold-Bold.svg#BandaBold-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family:'MinionPro-Regular';
+  src: url('/fonts/MinionPro-Regular.eot?#iefix') format('embedded-opentype'),  url('/fonts/MinionPro-Regular.otf')  format('opentype'),
+	     url('/fonts/MinionPro-Regular.woff') format('woff'), url('/fonts/MinionPro-Regular.ttf')  format('truetype'), url('/fonts/MinionPro-Regular.svg#MinionPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
