@@ -14,7 +14,7 @@ This is a sample application build with Laravel 5.7. It can be used for serving 
 
 After receiving the URL to this repository we would like you to:
 
-- send a screenshot of the admin environment as soons as possible
+- send a screenshot of the admin environment as soon as possible
 - send remarks within 4 hours with repsect to:
   - bugs
   - possible improvements
